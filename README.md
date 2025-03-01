@@ -14,7 +14,7 @@ Running Spark SQL queries to calculate average home prices based on different fi
 
 Optimizing queries using partitioning and caching.
 
-Comparing performance between partitioned and cached data.
+Comparing performance between partitioned, cached data and uncached data.
 
 ## Key Concepts:
 
